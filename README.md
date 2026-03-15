@@ -26,5 +26,7 @@ https://drive.google.com/file/d/1JDQpn7clzVfGNPJnkLb6rF6827UO5H_5/view?usp=drive
 
 ## 📸 Скрийншоти
 <p align="center">
-  *Тук ще добавим твоите снимки след малко*
+  <img src="screenshots/home.jpg.jpg" width="250" />
+  <img src="screenshots/add.jpg.jpg" width="250" />
+  <img src="screenshots/profile.jpg.jpg" width="250" />
 </p>
