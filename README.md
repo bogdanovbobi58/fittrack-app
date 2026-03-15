@@ -1,5 +1,14 @@
 # 🏋️‍♂️ FitTrack App - Mobile Workout Manager
+## 🛠 Инструкции за стартиране
+1. Инсталирайте зависимостите: `npm install`
+2. Стартирайте Expo: `npx expo start`
+3. Отворете през Expo Go (Android/iOS) или емулатор.
 
+## ⚙️ Технически стек
+- **React Native & Expo**
+- **React Navigation** (Stack & Bottom Tab)
+- **Context API** за управление на сесиите
+- **MockAPI / Firebase** за съхранение на данни
 Приложение за управление на фитнес тренировки, изградено с **React Native** и **Expo**.
 
 ## 📑 Инструкция за изпита (EXAM INFO)
