@@ -62,7 +62,7 @@ const HomeScreen = ({ navigation }: any) => {
       <View style={{ height: 50, backgroundColor: '#fff' }} />
 
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>Моите Тренировки</Text>
+        <Text style={styles.headerTitle}>Списък с Тренировки</Text>
       </View>
 
       <FlatList
@@ -81,7 +81,7 @@ const HomeScreen = ({ navigation }: any) => {
           </View>
         )}
         refreshControl={<RefreshControl refreshing={isRefreshing} onRefresh={fetchWorkouts} />}
-        ListEmptyComponent={<Text style={styles.emptyText}>Няма тренировки.</Text>}
+        ListEmptyComponent={<Text style={styles.emptyText}>Все още нямате добавени тренировки.</Text>}
       />
 
       <TouchableOpacity style={styles.fab} onPress={() => navigation.navigate('AddWorkout')}>
