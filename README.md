@@ -55,3 +55,5 @@ FitTrack App е мобилно приложение за управление н
 - Валидация на имейл адрес.
 - Парола: минимум 6 символа.
 - Задължителни полета при добавяне на нова тренировка.
+## Final Status
+The project is fully functional, tested on an emulator, and ready for submission.
